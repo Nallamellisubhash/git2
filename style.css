@@ -1,0 +1,19 @@
+.a{
+    text-align: center;
+}
+table,th,td{
+    border: 1px solid black;
+    width: 50%;
+    height: 70px;
+    text-align: center;
+}
+div.b{
+    text-align: center;
+ 
+}
+.c{
+    text-align: right;
+}
+body{
+    background-color:blue);
+}
